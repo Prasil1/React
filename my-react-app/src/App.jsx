@@ -15,8 +15,7 @@ function App() {
     <Header/>
     <Card pic={brook} title="Yohohoho!" text="I am practicing React"/>
     <Card pic={luffy} title="Luffy!" text="Watashi wa kaizoku no ō ni naru"/>
-    <Card />
-    <Card />
+    <Card/><Card/><Card/>
       
     
     <Footer/>
